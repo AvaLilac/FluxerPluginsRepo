@@ -11,6 +11,12 @@
       "author": "AvaLilac#5176 & 0simp#5766",
       "link": "https://codeberg.org/DPRS/FluxerBanners/raw/branch/main/FluxerBanners.js",
       "description": "Add Banners to your Profile for free! And See other People's Uploaded Banner's Join At https://fluxer.gg/iPiUfXdy to Upload"
+    },
+    {
+      "name": "Fluxer Avatars",
+      "author": "0simp#5766",
+      "link": "https://codeberg.org/DPRS/FluxerAvatars/raw/branch/main/FluxerAvatars.js",
+      "description": "Add Avatars to your Profile for free! And See other People's Uploaded Avatars's Join At https://fluxer.gg/iPiUfXdy to Upload"
     }
   ]
 }
