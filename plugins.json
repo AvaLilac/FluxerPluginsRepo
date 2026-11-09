@@ -1,12 +1,6 @@
 {
   "plugins": [
     {
-      "name": "ShiftNewLine (Mobile Only)",
-      "author": "0simp#8008",
-      "link": "https://codeberg.org/0simp/FluxerStuff/raw/branch/main/canary/userscripts/ShiftNewLine.user.js",
-      "description": "Makes adding new lines to your message require holding shift when pressing enter. Otherwise the message gets sent"
-    },
-    {
       "name": "Fluxer Banners",
       "author": "Amethyst#5176 & 0simp#8008",
       "link": "https://codeberg.org/DPRS/FluxerBanners/raw/branch/main/FluxerBanners.js",
@@ -17,6 +11,42 @@
       "author": "0simp#8008",
       "link": "https://codeberg.org/DPRS/FluxerAvatars/raw/branch/main/FluxerAvatars.js",
       "description": "Add Avatars to your Profile for free! And See other People's Uploaded Avatars's Join At https://fluxer.gg/iPiUfXdy to Upload"
+    },
+    {
+      "name": "DownloadALL",
+      "author": "0simp#8008",
+      "link": "https://codeberg.org/0simp/FluxerStuff/raw/branch/main/canary/plugins/DownloadAll.js",
+      "description": "Adds a context menu button to download all image/video attachments from a message"
+    },
+    {
+      "name": "Embed Self Bot",
+      "author": "0simp#8008",
+      "link": "https://codeberg.org/0simp/FluxerStuff/raw/branch/main/canary/plugins/embedselfbot.js",
+      "description": "A selfbot with a command to send custom embeds. The command is *embed, see the readme for valid arguments"
+    },
+    {
+      "name": "EmojiSounds",
+      "author": "0simp#8008",
+      "link": "https://codeberg.org/0simp/FluxerStuff/raw/branch/main/canary/plugins/EmojiSounds.js",
+      "description": "Allows you to set sounds to be played when certain emojis are sent in chat"
+    },
+    {
+      "name": "FluxerBadges",
+      "author": "0simp#8008",
+      "link": "https://codeberg.org/0simp/FluxerStuff/raw/branch/main/canary/plugins/FluxerBadges.js",
+      "description": "Adds custom badges to fluxer"
+    },
+    {
+      "name": "NoGCStatusIndicators",
+      "author": "0simp#8008",
+      "link": "https://codeberg.org/0simp/FluxerStuff/raw/branch/main/canary/plugins/NoGCStatusIndicators.js",
+      "description": "Removes status indicators on group dms"
+    },
+    {
+      "name": "Speech Bubble Selfbot",
+      "author": "0simp#8008",
+      "link": "https://codeberg.org/0simp/FluxerStuff/raw/branch/main/canary/plugins/speechbubbleselfbot.js",
+      "description": "A selfbot with a speechbubble command (adds a speechbubble to an image)"
     }
   ]
 }
