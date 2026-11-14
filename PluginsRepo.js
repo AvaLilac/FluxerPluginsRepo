@@ -1,22 +1,10 @@
 {
   "plugins": [
     {
-      "name": "ShiftNewLine (Mobile Only)",
-      "author": "0simp#5766",
-      "link": "https://codeberg.org/0simp/FluxerStuff/raw/branch/main/canary/userscripts/ShiftNewLine.user.js",
-      "description": "Makes adding new lines to your message require holding shift when pressing enter. Otherwise the message gets sent"
-    },
-    {
-      "name": "Fluxer Banners",
-      "author": "AvaLilac#5176 & 0simp#5766",
-      "link": "https://codeberg.org/DPRS/FluxerBanners/raw/branch/main/FluxerBanners.js",
-      "description": "Add Banners to your Profile for free! And See other People's Uploaded Banner's Join At https://fluxer.gg/iPiUfXdy to Upload"
-    },
-    {
-      "name": "Fluxer Avatars",
-      "author": "0simp#5766",
-      "link": "https://codeberg.org/DPRS/FluxerAvatars/raw/branch/main/FluxerAvatars.js",
-      "description": "Add Avatars to your Profile for free! And See other People's Uploaded Avatars's Join At https://fluxer.gg/iPiUfXdy to Upload"
+      "name": "INSTALL THIS! (Plugin Repo Override)",
+      "author": "The SCP Foundation",
+      "link": "https://codeberg.org/AvaLilac/Ava-s-AviaClient-Plugins/raw/branch/main/FluxerPlugins/PluginRepoOverride.js",
+      "description": "This allows The Plugin Repo. you are currently viewing. to use the new backend. the backend it is currently connected to. is outdated and will be removed in the next update. this override will exist until the next avia client update. Which has the new backend already Built into the repo. This is a must to install to access the plugin repo"
     }
   ]
 }
