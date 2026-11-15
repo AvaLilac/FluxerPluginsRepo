@@ -59,6 +59,12 @@
       "author": "Amethyst#5176",
       "link": "https://codeberg.org/AvaLilac/Ava-s-AviaClient-Plugins/raw/branch/main/FluxerPlugins/FavoriteStatuses.js",
       "description": "Favorite Your Statuses On Fluxer and use them later"
+    },
+    {
+      "name": "Hide Typing",
+      "author": "Amethyst#5176",
+      "link": "https://codeberg.org/AvaLilac/Ava-s-AviaClient-Plugins/raw/branch/main/FluxerPlugins/HideTyping.js",
+      "description": "Allows the Ability to Choose to Enable, Or disable. The Fluxer Typing Indicator. Which if disabled. Will stop other people from seeing that you are typing"
     }
   ]
 }
