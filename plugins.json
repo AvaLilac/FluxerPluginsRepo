@@ -59,6 +59,12 @@
       "author": "Amethyst#5176",
       "link": "https://codeberg.org/AvaLilac/Ava-s-AviaClient-Plugins/raw/branch/main/FluxerPlugins/HideTyping.js",
       "description": "Allows the Ability to Choose to Enable, Or disable. The Fluxer Typing Indicator. Which if disabled. Will stop other people from seeing that you are typing"
+    },
+    {
+      "name": "Disable Console Warnings",
+      "author": "Amethyst#5176",
+      "link": "https://codeberg.org/AvaLilac/Ava-s-AviaClient-Plugins/raw/branch/main/FluxerPlugins/DisableConsoleWarning.js",
+      "description": "This plugin removes the 'STOP! This console is a developer tool, If someone told you to paste something here, it is a scam that can hand them your Fluxer account. Warning as it can get annoying for plugin developers. Please install this only if you are a plugin developer' message, This is useless for normal users and can pose a security risk as the warnings are there for a reason"
     }
   ]
 }
