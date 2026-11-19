@@ -71,6 +71,12 @@
       "author": "Amethyst#5176",
       "link": "https://codeberg.org/AvaLilac/Ava-s-AviaClient-Plugins/raw/branch/main/FluxerPlugins/Translate.js",
       "description": "Translate other People's Messages in UI"
+    },
+    {
+      "name": "Action Menu API",
+      "author": "Amethyst#5176",
+      "link": "https://github.com/DPRS-SITES/fluxer/blob/main/fluxer_desktop/plugins/ActionMenuAPI.js",
+      "description": "Allows injecting buttons into the Action Menu of any message. Already in the REPO. This will be intergrated next release."
     }
   ]
 }
