@@ -73,10 +73,10 @@
       "description": "Translate other People's Messages in UI"
     },
     {
-      "name": "Action Menu API",
+      "name": "Themes Manager",
       "author": "Amethyst#5176",
-      "link": "https://github.com/DPRS-SITES/fluxer/blob/main/fluxer_desktop/plugins/ActionMenuAPI.js",
-      "description": "Allows injecting buttons into the Action Menu of any message. Already in the REPO. This will be intergrated next release."
+      "link": "https://codeberg.org/AvaLilac/Ava-s-AviaClient-Plugins/raw/branch/main/FluxerPlugins/ThemesManager.js",
+      "description": "The themes manager that was once a plugin on Avia Client. Although it is now discontinued since fluxer has its own themes manager. This only exists for people that have themes on this plugin. So they wont lose them. Once you enable this plugin. your themes will be right there. No data lost. THIS WILL NOT GET FUTURE UPDATES. And Will be removed in a few months. SO please transfer your themes from this plugin. to fluxers own themes manager"
     }
   ]
 }
