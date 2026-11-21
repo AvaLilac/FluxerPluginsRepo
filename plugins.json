@@ -34,7 +34,7 @@
       "name": "FluxerBadges",
       "author": "0simp#8008",
       "link": "https://codeberg.org/0simp/FluxerStuff/raw/branch/main/canary/plugins/FluxerBadges.js",
-      "description": "Adds custom badges to fluxer"
+      "description": "Adds custom badges to fluxer's UI"
     },
     {
       "name": "NoGCStatusIndicators",
