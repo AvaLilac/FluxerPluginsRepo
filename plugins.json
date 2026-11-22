@@ -83,6 +83,12 @@
       "author": "0simp#8008",
       "link": "https://codeberg.org/0simp/FluxerStuff/raw/branch/main/canary/plugins/MentionAvatars.js",
       "description": "Adds avatars to user mentions. Note that this plugin only works on chat messages, so avatars will not be added to user mentions which appear in channel descriptions, user profiles or anywhere apart from in messages. You may also have to refresh your client after enabling for it to take full effect"
+    },
+    {
+      "name": "Experiments",
+      "author": "Amethyst#5176",
+      "link": "https://codeberg.org/AvaLilac/Ava-s-AviaClient-Plugins/raw/branch/main/FluxerPlugins/experiments.js",
+      "description": "Gain access to be able to enable actual Fluxer Experiments. This requires a refresh or wait for the experiment poll '300ms' for it to work."
     }
   ]
 }
