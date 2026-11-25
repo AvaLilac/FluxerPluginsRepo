@@ -95,6 +95,12 @@
       "author": "0simp#8008",
       "link": "https://codeberg.org/0simp/FluxerStuff/raw/branch/main/canary/plugins/FakePlutonium.js",
       "description": "Allows you to send emojis and stickers and screenshare in high quality without plutonium. Because of the way this plugin works, things like setting banners will also be exposed in the ui but THEY WILL NOT WORK BECAUSE THEY ARE HANDLED SERVERSIDE!"
+    },
+    {
+      "name": "Auto Capitalize",
+      "author": "Amethyst#5176",
+      "link": "https://codeberg.org/AvaLilac/Ava-s-AviaClient-Plugins/raw/branch/main/FluxerPlugins/AutoCapitalize.js",
+      "description": "For people too lazy to Capitalize their own messages. We do it for you"
     }
   ]
 }
