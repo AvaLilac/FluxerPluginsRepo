@@ -101,6 +101,12 @@
       "author": "Amethyst#5176",
       "link": "https://codeberg.org/AvaLilac/Ava-s-AviaClient-Plugins/raw/branch/main/FluxerPlugins/AutoCapitalize.js",
       "description": "For people too lazy to Capitalize their own messages. We do it for you"
+    },
+    {
+      "name": "ShowMeYourName",
+      "author": "Amethyst#5176",
+      "link": "https://codeberg.org/AvaLilac/Ava-s-AviaClient-Plugins/raw/branch/main/FluxerPlugins/ShowMeYourName.js",
+      "description": "Display usernames next to nicks"
     }
   ]
 }
