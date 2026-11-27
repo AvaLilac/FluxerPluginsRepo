@@ -113,6 +113,12 @@
       "author": "Amethyst#5176",
       "link": "https://codeberg.org/AvaLilac/Ava-s-AviaClient-Plugins/raw/branch/main/FluxerPlugins/MessageExport.js",
       "description": "Exports any message into a .json file"
+    },
+    {
+      "name": "Profile Connections",
+      "author": "Amethyst#5176",
+      "link": "https://github.com/AvaLilac/ProfileConnections/raw/refs/heads/main/ProfileConnections.js",
+      "description": "Add custom profile connections to your profile. Or see custom connections of other people who have the plugin as well. To apply for your own connection. Join https://fluxer.gg/cMmRDPlO"
     }
   ]
 }
