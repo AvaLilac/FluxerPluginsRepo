@@ -108,5 +108,11 @@
       "link": "https://codeberg.org/AvaLilac/Ava-s-AviaClient-Plugins/raw/branch/main/FluxerPlugins/ShowMeYourName.js",
       "description": "Display usernames next to nicks"
     }
+    {
+      "name": "Message Export",
+      "author": "Amethyst#5176",
+      "link": "https://codeberg.org/AvaLilac/Ava-s-AviaClient-Plugins/raw/branch/main/FluxerPlugins/MessageExport.js",
+      "description": "Exports any message into a .json file"
+    }
   ]
 }
